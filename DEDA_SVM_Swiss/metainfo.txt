@@ -1,1 +1,13 @@
-test
+Name of QuantLet : DEDA_SVM_Swiss
+
+Published in : 'DEDA Unit 7: Support Vector Machines (SVM)'
+
+Description : 'Determines and plots the decision boundary of a SVM classifier with polynomial kernel of order 2 using the Swiss banknote dataset.'
+
+Keywords : Support vector machines, SVM, classification
+
+See also : 'DEDA_SVM_Linear, DEDA_SVM_Nonlinear, DEDA_SVM_Spiral'
+
+Author : Georg Keilbar
+
+Submitted : October 16 2018 by Georg Keilbar
