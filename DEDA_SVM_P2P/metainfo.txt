@@ -1,0 +1,13 @@
+Name of QuantLet : DEDA_SVM_P2P
+
+Published in : 'DEDA Unit 7: Support Vector Machines (SVM)'
+
+Description : 'SVM classification model for defaults of P2P loans. Compares the out-of-sample predictive performance to a baseline logistic regression model.'
+
+Keywords : Support vector machines, SVM, classification
+
+See also : 'DEDA_SVM_Linear, DEDA_SVM_Nonlinear, DEDA_SVM_Spiral'
+
+Author : Georg Keilbar
+
+Submitted : May 26 2019 by Georg Keilbar
